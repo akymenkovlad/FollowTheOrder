@@ -48,5 +48,11 @@ enum Emoji: String,CaseIterable{
     case love = "love_emoji"
     case sad = "sad_emoji"
     case laughter = "laughter_emoji"
-    case crazy = "crazy_emoji"
+    case cool = "cool_emoji"
+    case sick = "sick_emoji"
+    case shocked = "shocked_emoji"
+    case tease = "tease_emoji"
+    case hug = "hug_emoji"
+    case cry = "cry_emoji"
+    case angel = "angel_emoji"
 }

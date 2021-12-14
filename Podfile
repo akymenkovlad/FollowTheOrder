@@ -7,6 +7,6 @@ target 'FollowTheOrder' do
 
   # Pods for FollowTheOrder
   pod 'Alamofire', '~> 5.4'
-  pod 'RealmSwift'
+  pod 'JGProgressHUD'
 
 end
